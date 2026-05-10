@@ -7,5 +7,4 @@ Connecting a mobile application to hardware devices is a practical way to explor
 Both Bluetooth Classic and Bluetooth Low Energy (BLE) approaches were implemented and evaluated based on actual connection and communication behavior.
 
 Further reading:
-[https://medium.com/@mohamad.razzi.my/arduino-hc-05-bluetooth-control-with-flutter-and-kotlin-classic-vs-ble-in-practice-e1b8aa3f1eb8]
-(https://medium.com/@mohamad.razzi.my/arduino-hc-05-bluetooth-control-with-flutter-and-kotlin-classic-vs-ble-in-practice-e1b8aa3f1eb8)
+https://medium.com/@mohamad.razzi.my/arduino-hc-05-bluetooth-control-with-flutter-and-kotlin-classic-vs-ble-in-practice-e1b8aa3f1eb8
