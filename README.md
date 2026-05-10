@@ -1,17 +1,10 @@
 # flut_hc05_simple_dual
 
-A new Flutter project.
+Arduino HC-05 Bluetooth Control with Flutter and Kotlin: Classic vs. BLE in Practice
 
-## Getting Started
+Connecting a mobile application to hardware devices is a practical way to explore IoT concepts. This project demonstrates how a Flutter application can be used to control an Arduino LED via the HC-05 Bluetooth module. The core functionality includes scanning for devices, establishing a connection, and sending simple commands (1, 0, and PING) to interact with the Arduino.
 
-This project is a starting point for a Flutter application.
+Both Bluetooth Classic and Bluetooth Low Energy (BLE) approaches were implemented and evaluated based on actual connection and communication behavior.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Further reading:
+[https://blog.devgenius.io/arduino-hc-05-bluetooth-control-with-flutter-and-kotlin-classic-vs-ble-in-practice-e1b8aa3f1eb8](https://medium.com/@mohamad.razzi.my/arduino-hc-05-bluetooth-control-with-flutter-and-kotlin-classic-vs-ble-in-practice-e1b8aa3f1eb8)
